@@ -1,0 +1,1 @@
+global using CSharpPractice.V10Features;
