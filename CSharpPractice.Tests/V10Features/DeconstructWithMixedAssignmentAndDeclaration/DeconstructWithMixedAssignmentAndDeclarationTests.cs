@@ -1,6 +1,6 @@
-using System.Reflection;
+using CSharpPractice.V10Features.DeconstructWithMixedAssignmentAndDeclaration;
 
-namespace CSharpPractice.Tests.V10Features;
+namespace CSharpPractice.Tests.V10Features.DeconstructWithMixedAssignmentAndDeclaration;
 
 public class DeconstructWithMixedAssignmentAndDeclarationTests
 {

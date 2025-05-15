@@ -1,6 +1,6 @@
-using System.ComponentModel;
+using CSharpPractice.V10Features.ExtendedPropertyPatterns;
 
-namespace CSharpPractice.Tests.V10Features;
+namespace CSharpPractice.Tests.V10Features.ExtendedPropertyPatterns;
 
 public class ExtendedPropertyPatternsTests
 {

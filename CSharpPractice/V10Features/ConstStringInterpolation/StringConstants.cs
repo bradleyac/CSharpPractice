@@ -1,6 +1,6 @@
-namespace CSharpPractice.V10Features;
+namespace CSharpPractice.V10Features.ConstStringInterpolation;
 
-public static class ConstStringInterpolation
+public static class StringConstants
 {
     public const string Surname = "Bradley";
     public const string UintahName = $"Uintah {Surname}";

@@ -1,4 +1,6 @@
-namespace CSharpPractice.Tests.V10Features;
+using CSharpPractice.V10Features.InterpolatedStringHandler;
+
+namespace CSharpPractice.Tests.V10Features.InterpolatedStringHandler;
 
 public class InterpolatedStringHandlerTests
 {

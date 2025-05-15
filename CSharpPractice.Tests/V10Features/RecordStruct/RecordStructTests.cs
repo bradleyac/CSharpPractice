@@ -1,4 +1,4 @@
-﻿namespace CSharpPractice.Tests.V10Features;
+﻿namespace CSharpPractice.Tests.V10Features.RecordStruct;
 
 public class RecordStructTests
 {
